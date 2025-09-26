@@ -1,0 +1,12 @@
+[
+    {
+        "product": "phone",
+        "price": 100.0,
+        "discounted": 90.0
+    },
+    {
+        "product": "tablet",
+        "price": 50.0,
+        "discounted": 45.0
+    }
+]

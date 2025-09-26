@@ -1,0 +1,2 @@
+Function 'timed_math_report' executed in 3.8341567516326904 seconds
+Function 'timed_regex_log_cleaner' executed in 0.003011465072631836 seconds
